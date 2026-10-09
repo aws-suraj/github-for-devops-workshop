@@ -1,0 +1,29 @@
+
+  Id CommandLine                                                                                                                            
+  -- -----------                                                                                                                            
+   1 try { . "c:\Users\DELL\AppData\Local\Programs\Microsoft VS Code\07f806f999\resources\app\out\vs\workbench\contrib\terminal\common\sc...
+   2 & C:\Users\DELL\AppData\Local\Python\pythoncore-3.14-64\python.exe c:/Users/DELL/github-for-devops-workshop/testing.py                 
+   3 ls                                                                                                                                     
+   4 ls -l                                                                                                                                  
+   5 ls                                                                                                                                     
+   6 ls                                                                                                                                     
+   7 git init                                                                                                                               
+   8 ls                                                                                                                                     
+   9 dir                                                                                                                                    
+  10 ls -a                                                                                                                                  
+  11 dir -a                                                                                                                                 
+  12 git status                                                                                                                             
+  13 git add testing.py                                                                                                                     
+  14 git status                                                                                                                             
+  15 git rm --cashe                                                                                                                         
+  16 git rm --cached testing.py                                                                                                             
+  17 git status                                                                                                                             
+  18 git add .                                                                                                                              
+  19 git status                                                                                                                             
+  20 git commit -m "added testing file"                                                                                                     
+  21 git status                                                                                                                             
+  22 ls                                                                                                                                     
+  23 rm testing.py                                                                                                                          
+  24 git status                                                                                                                             
+  25 git restore testing.py                                                                                                                 
+  26 git status  
