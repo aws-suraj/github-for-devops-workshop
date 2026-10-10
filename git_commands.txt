@@ -27,3 +27,26 @@
   24 git status                                                                                                                             
   25 git restore testing.py                                                                                                                 
   26 git status  
+  27 history                                                                                                                                
+  28 clear                                                                                                                                  
+  29 git status                                                                                                                             
+  30 git add .                                                                                                                              
+  31 git status                                                                                                                             
+  32 git commit -m " git all command"                                                                                                       
+  33 clear                                                                                                                                  
+  34 git status                                                                                                                             
+  35 git remote add origin https://github.com/aws-suraj/github-for-devops-workshop.git                                                      
+  36 git remote -v                                                                                                                          
+  37 clear                                                                                                                                  
+  38 git push origin maste                                                                                                                  
+  39 git push origin master                                                                                                                 
+  40 git remoter -v                                                                                                                         
+  41 git remote -v                                                                                                                          
+  42 clear                                                                                                                                  
+  43 git remote -v                                                                                                                          
+  44 git remote set-url origin https://atuINfdwUtCE19gcKV6b1e5AFm@github.com/aws-suraj/github-for-devops-workshop.git         
+  45 git remote -v                                                                                                                          
+  46 git push origin master                                                                                                                 
+  47 git remote set-url origin                                                                                                              
+  48 git push origin master                                                                                                                 
+  49 clear     
